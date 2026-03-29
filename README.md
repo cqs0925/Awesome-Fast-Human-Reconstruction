@@ -6,6 +6,8 @@ This is a collection of research for 3D human pose, body and shape reconstructio
 
 - [2026](#2026)
 - [2025](#2025)
+- 
+## 📄 Papers
 
 ### 2026
 
