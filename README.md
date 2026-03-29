@@ -10,16 +10,27 @@ This is a collection of research for 3D human pose, body and shape reconstructio
 ### 2026
 
 **CVPR**
+
 **ICCV**
+
 **ECCV**
+
 **NeurIPS**
+
 **ICLR**
+
 **AAAI**
+
 **WACV**
+
 **BMVC**
+
 **SigGraph**
+
 **MM**
+
 **Journal papers**
+
 **arXiv papers**
 
 ### 2025
