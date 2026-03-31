@@ -1,6 +1,6 @@
 # Awesome-Fast-Human-Reconstruction
 
-This is a collection of research for 3D human pose, body and shape reconstruction, particularly focusing on deployment, faster, parameter efficient (to be changed).
+This is a collection of research for human pose, body and shape reconstruction, particularly focusing on deployment, faster, parameter efficient (to be changed).
 
 ## 📋 Overview
 
