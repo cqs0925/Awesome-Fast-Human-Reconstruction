@@ -1,6 +1,9 @@
-# Awesome-Fast-Human-Reconstruction
+# Awesome-PointCloud-Human-Reconstruction
 
-This is a collection of research for human pose, body and shape reconstruction, particularly focusing on deployment, faster, parameter efficient (to be changed).
+"Point Clouds, scattered collections of points in 2D or 3D, are arguably the simplest shape representation, and the raw output of most 3D data acquisition device (depth, mmWave, Lidar... )." -- DGCNN
+
+This is a curated list of methods for deriving 3D humans from point clouds, including but not limited to 3D human registration and human mesh recovery (HMR). 
+(We additionally include some interesting work in the more general 3D vision field, in seperate.)
 
 ## 📋 Overview
 
